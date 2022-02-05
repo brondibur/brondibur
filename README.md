@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishan Tripathi
 
-- 🌱 I’m a Computer Sciene and Engineering graduate from VIT, Vellore (2021)
+- 🌱 I’m a Computer Science and Engineering graduate from VIT, Vellore (2021)
 
 - :octocat: Full-Stack developer solving problems using code that has a positive impact on society
 
